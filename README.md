@@ -2,6 +2,8 @@ ccalc:
 
   FORTRAN 77 calculator for complex numbers
 
+  This calculator gets the operanator first and then the numbers.
+
 compile:
 
   linux: just run the shell script (does not strip binary)
