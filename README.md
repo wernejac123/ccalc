@@ -13,3 +13,5 @@ compile:
     C:\DEVEL\WATCOMF\OWSETENV.BAT
     
     WFL *.F (produces CCALC.EXE)
+
+    BUG: as of Apr 5, 2026 there is a bug where my programs are losing precision (calculating numbers as REAL instead of DOUBLEPRECISON). NOTE TO SELF: fix this by using D like 3.0D0 (DOUBLEPRECISION engineering notation) for all numbers including input from user)
