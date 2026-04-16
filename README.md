@@ -2,7 +2,7 @@ ccalc:
 
   FORTRAN 77 calculator for complex numbers
 
-  This calculator gets the operanator first and then the numbers.
+  This calculator gets the operator first and then the numbers.
 
 compile:
 
